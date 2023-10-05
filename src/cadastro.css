@@ -1,0 +1,263 @@
+/* App.css */
+
+.Home {
+    width: 1440px;
+    height: 916px;
+    position: relative;
+    background: linear-gradient(241deg, rgba(114.56, 20.60, 190.19, 0.85) 7%, #4E256F 34%);
+  }
+  
+  .Frame20 {
+    width: 948px;
+    height: 926px;
+    padding: 10px;
+    left: -17px;
+    top: -10px;
+    position: absolute;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+    display: inline-flex;
+  }
+  
+  .Rectangle60 {
+    width: 921px;
+    height: 916px;
+    background: white;
+  }
+  
+  .Booknook {
+    width: 172px;
+    height: 28px;
+    left: 128px;
+    top: 60px;
+    position: absolute;
+    color: #4E256F;
+    font-size: 20px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .Group {
+    width: 31px;
+    height: 28px;
+    left: 88px;
+    top: 60px;
+    position: absolute;
+  }
+  
+  .Vector {
+    width: 23.99px;
+    height: 19.65px;
+    left: 4.11px;
+    top: 8.35px;
+    position: absolute;
+    opacity: 0.20;
+    background: #4E256F;
+  }
+  
+  .Group38 {
+    width: 31px;
+    height: 23.86px;
+    left: 0;
+    top: 0;
+    position: absolute;
+  }
+  
+  .Vector {
+    width: 16.31px;
+    height: 23.86px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: #4E256F;
+  }
+  
+  .Vector {
+    width: 16.31px;
+    height: 23.86px;
+    left: 14.69px;
+    top: 0;
+    position: absolute;
+    background: #4E256F;
+  }
+  
+  .FicamosFelizesEmTeVer {
+    width: 393px;
+    height: 66px;
+    left: 1000px;
+    top: 318px;
+    position: absolute;
+    color: white;
+    font-size: 36px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    word-wrap: break-word;
+  }
+  
+  .CadastreSeParaAcessarEDescobrirOMundoBooknook {
+    width: 363px;
+    height: 48px;
+    left: 1013px;
+    top: 395px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    word-wrap: break-word;
+  }
+  
+  .Rectangle62 {
+    width: 228px;
+    height: 51px;
+    left: 204px;
+    top: 151px;
+    position: absolute;
+    background: white;
+    border-radius: 50px;
+    border: 1px #4F2670 solid;
+  }
+  
+  .SignInWithGoogle {
+    width: 143px;
+    height: 18px;
+    left: 273px;
+    top: 169px;
+    position: absolute;
+    color: #4E256F;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .Image44 {
+    width: 31px;
+    height: 39px;
+    left: 230px;
+    top: 159px;
+    position: absolute;
+  }
+  
+  .Rectangle63 {
+    width: 228px;
+    height: 51px;
+    left: 475px;
+    top: 153px;
+    position: absolute;
+    background: white;
+    border-radius: 50px;
+    border: 1px #4F2670 solid;
+  }
+  
+  .SignInWithApple {
+    width: 143px;
+    height: 18px;
+    left: 544px;
+    top: 171px;
+    position: absolute;
+    color: #4E256F;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .Image45 {
+    width: 39px;
+    height: 42px;
+    left: 500px;
+    top: 157px;
+    position: absolute;
+  }
+  
+  .OuCadastreSeComOSeuEMail {
+    width: 235px;
+    height: 12px;
+    left: 336px;
+    top: 232px;
+    position: absolute;
+    color: #4E256F;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .Group30 {
+    width: 475px;
+    height: 70.74px;
+    left: 220px;
+    top: 277px;
+    position: absolute;
+  }
+  
+  .Rectangle55 {
+    width: 475px;
+    height: 60.06px;
+    left: 0;
+    top: 10.68px;
+    position: absolute;
+    border-radius: 7px;
+    border: 1px #8500F0 solid;
+  }
+  
+  .Rectangle56 {
+    width: 75px;
+    height: 18.68px;
+    left: 20.31px;
+    top: 2.67px;
+    position: absolute;
+    background: white;
+  }
+  
+  .EMail {
+    width: 70.31px;
+    height: 24.02px;
+    left: 25px;
+    top: 0;
+    position: absolute;
+    color: rgba(114.56, 20.60, 190.19, 0.85);
+    font-size: 20px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Vector1 {
+    width: 0;
+    height: 21.35px;
+    left: 21.87px;
+    top: 30.70px;
+    position: absolute;
+    border: 1px #8500F0 solid;
+  }
+  
+  .Group31 {
+    width: 475px;
+    height: 60.06px;
+    left: 220px;
+    top: 469.19px;
+    position: absolute;
+  }
+  
+  .Rectangle55 {
+    width: 475px;
+    height: 60.06px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    border-radius: 7px;
+    border: 1px #A590B6 solid;
+  }
+  
+  .Username {
+    width: 131.25px;
+    height: 24.02px;
+    left: 21.87px;
+    top: 17.35
+  }

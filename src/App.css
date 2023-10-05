@@ -1,0 +1,430 @@
+.Home {
+  width: 98.7vw;
+  height: 350vh;
+  position: relative;
+  background: linear-gradient(
+    241deg,
+    rgba(114.56, 20.6, 190.19, 0.85) 7%,
+    #4e256f 34%
+  );
+}
+
+.Group38 {
+  width: 614px;
+  height: 286px;
+  left: 143px;
+  top: 296px;
+  position: absolute;
+}
+
+.ReadingLibraryInnovation {
+  width: 476px;
+  height: 269px;
+  left: 0;
+  top: 0;
+  position: absolute;
+  color: white;
+  font-size: 80px;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 69.52px;
+  word-wrap: break-word;
+}
+
+.BooknookGaranteAFacilidadeNaProcuraEReservaDeLivrosNaBibliotecaMaisPrXimaDeVoc {
+  width: 614px;
+  left: 0;
+  top: 226px;
+  position: absolute;
+  color: white;
+  font-size: 25px;
+  font-family: Montserrat;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Group45 {
+  width: 143px;
+  height: 37px;
+  left: 1199px;
+  top: 50px;
+  position: absolute;
+}
+
+.Rectangle57 {
+  width: 143px;
+  height: 37px;
+  left: 0;
+  top: 0;
+  position: absolute;
+  background: white;
+  border-radius: 60px;
+}
+
+.SignUp {
+  left: 38px;
+  top: 6px;
+  position: absolute;
+  text-align: center;
+  color: #4e256f;
+  font-size: 20px;
+  font-family: Montserrat;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.LogIn {
+  left: 1125px;
+  top: 56px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-family: Montserrat;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Image43 {
+  width: 305px;
+  height: 265px;
+  left: 737px;
+  top: 193px;
+  position: absolute;
+  border-radius: 313px;
+}
+
+.Image46 {
+  width: 508px;
+  height: 492px;
+  left: 834px;
+  top: 193px;
+  position: absolute;
+}
+
+.Group46 {
+  height: 29.2px;
+  left: 162px;
+  top: 54px;
+  position: absolute;
+}
+
+.Booknook {
+  left: 34px;
+  top: 0;
+  position: absolute;
+  color: #a590b6;
+  font-size: 20px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Group {
+  width: 25px;
+  height: 29.2px;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+
+.Vector {
+  width: 19.35px;
+  height: 20.49px;
+  left: 3.31px;
+  top: 8.71px;
+  position: absolute;
+  opacity: 0.2;
+  background: #a590b6;
+}
+
+.Group38 .Vector {
+  width: 13.16px;
+  height: 24.89px;
+  left: 0;
+  top: 0;
+  position: absolute;
+  background: white;
+}
+
+.Group38 .Vector + .Vector {
+  width: 13.16px;
+  height: 24.88px;
+  left: 11.84px;
+  top: 0;
+  position: absolute;
+  background: white;
+}
+
+.ExploreSobreOsLivrosMaisLidosNoMomento {
+  width: 730px;
+  height: 104px;
+  left: 355px;
+  top: 2008px;
+  position: absolute;
+  color: white;
+  font-size: 35px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.PorQueEscolherBooknook {
+  left: 143px;
+  top: 971px;
+  position: absolute;
+  color: #a590b6;
+  font-size: 60px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Ellipse3 {
+  width: 286px;
+  height: 289px;
+  left: 162px;
+  top: 1089px;
+  position: absolute;
+  background: #8500f0;
+  border-radius: 9999px;
+}
+
+.Ellipse4 {
+  width: 286px;
+  height: 289px;
+  left: 143px;
+  top: 1089px;
+  position: absolute;
+  background: linear-gradient(
+    180deg,
+    rgba(153.6, 27.63, 255, 0.85) 47%,
+    rgba(114.56, 20.6, 190.19, 0) 100%
+  );
+  border-radius: 9999px;
+}
+
+.Ellipse5 {
+  width: 286px;
+  height: 289px;
+  left: 588px;
+  top: 1089px;
+  position: absolute;
+  background: #8500f0;
+  border-radius: 9999px;
+}
+
+.Ellipse6 {
+  width: 286px;
+  height: 289px;
+  left: 566px;
+  top: 1089px;
+  position: absolute;
+  background: linear-gradient(
+    180deg,
+    rgba(153.6, 27.63, 255, 0.85) 47%,
+    rgba(114.56, 20.6, 190.19, 0) 100%
+  );
+  border-radius: 9999px;
+}
+
+.Ellipse7 {
+  width: 286px;
+  height: 289px;
+  left: 1016px;
+  top: 1089px;
+  position: absolute;
+  background: #8500f0;
+  border-radius: 9999px;
+}
+
+.Ellipse8 {
+  width: 286px;
+  height: 289px;
+  left: 994px;
+  top: 1089px;
+  position: absolute;
+  background: linear-gradient(
+    180deg,
+    rgba(153.6, 27.63, 255, 0.85) 47%,
+    rgba(114.56, 20.6, 190.19, 0) 100%
+  );
+  border-radius: 9999px;
+}
+
+.T30Mil {
+  width: 194px;
+  height: 64px;
+  left: 208px;
+  top: 1185px;
+  position: absolute;
+  color: #cfa2f4;
+  font-size: 50px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.TTulos {
+  width: 103px;
+  height: 45px;
+  left: 254px;
+  top: 1249px;
+  position: absolute;
+  color: white;
+  font-size: 35px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.T3000000 {
+  width: 310px;
+  height: 64px;
+  left: 588px;
+  top: 1185px;
+  position: absolute;
+  color: #cfa2f4;
+  font-size: 50px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.UsuRios {
+  width: 142px;
+  height: 52px;
+  left: 664px;
+  top: 1245px;
+  position: absolute;
+  color: white;
+  font-size: 35px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.T30 {
+  width: 310px;
+  height: 56px;
+  left: 1028px;
+  top: 1151px;
+  position: absolute;
+  color: #cfa2f4;
+  font-size: 50px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.T800 {
+  width: 310px;
+  height: 56px;
+  left: 1005px;
+  top: 1224px;
+  position: absolute;
+  color: #cfa2f4;
+  font-size: 50px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Editoras {
+  width: 169px;
+  height: 52px;
+  left: 1145px;
+  top: 1159px;
+  position: absolute;
+  color: white;
+  font-size: 35px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Bibliotecas {
+  width: 169px;
+  height: 38px;
+  left: 1145px;
+  top: 1233px;
+  position: absolute;
+  color: white;
+  font-size: 33px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Parceiras {
+  width: 142px;
+  height: 52px;
+  left: 1087px;
+  top: 1301px;
+  position: absolute;
+  color: white;
+  font-size: 35px;
+  font-family: Montserrat;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgba(114.56, 20.6, 190.19, 0.85);
+  background-color: white;
+  padding: 1em 2em;
+  border: none;
+  border-radius: 0.6rem;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+button span:not(:nth-child(6)) {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  height: 30px;
+  width: 30px;
+  background-color: rgba(114.56, 20.6, 190.19, 0.85);
+  border-radius: 50%;
+  transition: 0.6s ease;
+}
+
+button span:nth-child(6) {
+  position: relative;
+}
+
+button span:nth-child(1) {
+  transform: translate(-3.3em, -4em);
+}
+
+button span:nth-child(2) {
+  transform: translate(-6em, 1.3em);
+}
+
+button span:nth-child(3) {
+  transform: translate(-0.2em, 1.8em);
+}
+
+button span:nth-child(4) {
+  transform: translate(3.5em, 1.4em);
+}
+
+button span:nth-child(5) {
+  transform: translate(3.5em, -3.8em);
+}
+
+button:hover span:not(:nth-child(6)) {
+  transform: translate(-50%, -50%) scale(4);
+  transition: 1.5s ease;
+  opacity: 0;
+}
+
+.logo {
+  height: 2rem;
+  width: 2rem;
+}
